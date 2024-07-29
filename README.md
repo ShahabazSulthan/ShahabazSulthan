@@ -6,10 +6,10 @@ As a self-taught GoLang developer, I'm on a continuous journey to explore and in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **innovative backend solutions** using GoLang and the Gin framework.
+- 🔭 I’m currently learning on **innovative backend solutions** using GoLang and the Gin framework.
 - 🌱 I’m learning **advanced DSA techniques** and **exploring new technologies**.
 - 💬 Ask me about **GoLang**, **Gin framework**, **SQL and NoSQL databases**, and **backend development**.
-- 📫 How to reach me: **[Email](mailto:your-email@example.com)** | **[LinkedIn]([https://www.linkedin.com/in/shahabaz-sulthan/](https://www.linkedin.com/in/shahabaz-sulthan-a256252b3/))**
+- 📫 How to reach me: **[Email](shahabazsulthan4@gmail.com)** | **[LinkedIn]([https://www.linkedin.com/in/shahabaz-sulthan/](https://www.linkedin.com/in/shahabaz-sulthan-a256252b3/))**
 
 ## 🌟 Skills & Technologies
 
