@@ -1,105 +1,91 @@
 
+
 ```markdown
-<h1 align="center">👋 Hi, I'm Shahabaz Sulthan</h1>
+# 👋 Hi, I'm Shahabaz Sulthan! 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShahabazSulthan&color=blue&style=flat" alt="visitor badge"/>
-</p>
+### 🚀 *GoLang Developer | Backend Engineer | Microservices Enthusiast*  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Golang+Developer;Backend+Architect;Microservices+Explorer;Clean+Code+Advocate;Lifelong+Learner+💡" alt="Typing SVG" />
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=ShahabazSulthan&label=Profile+Views&color=blueviolet&style=flat-square)  
+![GoLang](https://img.shields.io/badge/GoLang-Expert-00ADD8?style=flat-square&logo=go)  
+![Microservices](https://img.shields.io/badge/Microservices-Architect-FF6F00?style=flat-square&logo=docker)  
 
----
-
-## 🚀 About Me
-
-- 🧠 Self-taught **GoLang developer** passionate about scalable backend systems.
-- 🎯 Currently mastering **microservices**, **distributed systems**, and **cloud-native technologies**.
-- 🧑‍💻 Open-source contributor and backend architect.
-- 💬 Ask me about:  
-  `Golang`, `Gin/Fiber`, `PostgreSQL`, `Redis`, `Kafka`, `gRPC`, `WebSockets`, `Docker`, `Kubernetes`, `Clean Architecture`, `DSA`
-- 📫 How to reach me:  
-  [Email](mailto:shahabazsulthan4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shahabaz-sulthan-a256252b3/)
-
----
-
-## 💼 Tech Stack
-
-```yaml
-Languages:
-  - Go (Golang)
-  - SQL, NoSQL
-Frameworks:
-  - Gin, Fiber, net/http
-Databases:
-  - PostgreSQL, MongoDB, Redis, MySQL
-Protocols:
-  - REST, gRPC, WebSocket
-Tools:
-  - Docker, Kubernetes, Git, GitHub, GitLab, CI/CD, NGINX, Apache Kafka
-Architecture:
-  - Microservices, Clean Architecture, MVC
-Others:
-  - WebRTC, Unit Testing, Razorpay, Twilio APIs
+```diff
++ Passionate about building scalable, high-performance backend systems with GoLang and cutting-edge tech.
 ```
 
 ---
 
-## 🧩 Featured Projects
+## 🛠️ **Technical Stack**  
 
-### 🔹 [Friendzy](https://github.com/ShahabazSulthan/Friendzy-Microservices-based-social-media-platform) — Social Media Platform
-> Go, Fiber, Kafka, Redis, PostgreSQL, MongoDB, WebSocket, Razorpay, Docker, Kubernetes  
-A microservices-based platform with:
-- Real-time chat via WebSocket
-- Feed ranking (social graph, popularity, recency)
-- Blue tick monetization with Razorpay
-- Modular clean architecture
+### **Languages & Frameworks**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Gin](https://img.shields.io/badge/Gin-009688?style=for-the-badge&logo=go&logoColor=white)  
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 
-### 🔹 [Laptop Lounge](https://github.com/ShahabazSulthan/Laptop-Lounge) — E-commerce System
-> Go, Gin, PostgreSQL, Twilio, Razorpay, Docker, Kubernetes  
-Robust platform supporting:
-- OTP login, multiple roles (Admin, Seller, User)
-- Advanced search, filtering, coupon system
-- Seller analytics + PDF/Excel exports
+### **Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
-### 🔹 [GoStream](https://github.com/ShahabazSulthan/GoStream) — Video Streaming Platform
-> Go, Gin, gRPC, HLS, PostgreSQL  
-Scalable system with:
-- Microservice architecture
-- Secure gRPC communication
-- HLS video streaming and management
+### **DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+### **API & Protocols**  
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats
+## � **Featured Projects**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahabazSulthan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShahabazSulthan&theme=radical" alt="GitHub Streak" />
-</p>
+### **1. Friendly**  
+📌 *Microservices-Based Social Media Platform*  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket)  
+- Built scalable **user auth**, **real-time chat**, and **feed algorithms** (Popularity/Recency/Random).  
+- Integrated **Razorpay** for monetization and **Kafka** for push notifications.  
 
----
+### **2. Laptop Lounge**  
+📌 *E-Commerce Platform*  
+![Gin](https://img.shields.io/badge/Gin-009688?style=flat-square&logo=go) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio) ![Razorpay](https://img.shields.io/badge/Razorpay-00ADD8?style=flat-square)  
+- Developed **Seller/Admin dashboards** with **sales analytics** (Excel/PDF exports).  
+- Enabled **Twilio OTP auth** and **multi-payment** (Razorpay, COD, Wallet).  
 
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:shahabazsulthan4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahabaz-sulthan-a256252b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ShahabazSulthan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/ShahabazSulthan/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+### **3. GoStream**  
+📌 *Video Streaming Microservice*  
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google) ![HLS](https://img.shields.io/badge/HLS-FF6F00?style=flat-square&logo=hls)  
+- Implemented **HLS video streaming** and **gRPC** for inter-service communication.  
 
 ---
 
-> 🚧 *Continuously building, learning, and evolving in public.*
+## 📊 **GitHub Stats**  
 
+![Shahabaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahabazSulthan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabazSulthan&layout=compact&theme=radical&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahabazSulthan&theme=radical&hide_border=true)  
+
+---
+
+## 📫 **Let's Connect!**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahabaz-sulthan-a256252b3/)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahabazsulthan4@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ShahabazSulthan/)  
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("🚀 Building the future, one microservice at a time!") 
+}
+```
+---
+
+⭐ *"Simplicity is the ultimate sophistication."* — **Go Proverbs**  
 ```
